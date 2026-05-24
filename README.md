@@ -21,11 +21,11 @@
 
 ![Dashboard](streamlit-dashboard.png)
 
-# AI Security Analysis
+# Security Analysis
 
-![AI Analysis](analysis.png)
+![Analysis](analysis.png)
 
-![AI Analysis](analysis2.png)
+![Analysis](analysis2.png)
 
 # Security Events Monitoring
 
