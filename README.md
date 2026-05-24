@@ -13,23 +13,28 @@
 - AWS Bedrock
 - Python
 - Streamlit
-- # Architecture Diagram
+
+# Security Analysis
+
+![Analysis](Analysis.png)
+
+![Analysis2](Analysis2.png)
+
+# Security Events Monitoring
+
+![Security Events](Security-events.png)
+
+# EC2 CPU Monitoring
+
+![EC2 Monitoring](EC2-CPU-Utilization.png)
+
+# Architecture Diagram
 
 ![Architecture](architecture.png)
 
 # Streamlit Dashboard
 
 ![Dashboard](streamlit-dashboard.png)
-
-# Security Analysis
-
-![Analysis](analysis.png)
-
-![Analysis](analysis2.png)
-
-# Security Events Monitoring
-
-![Security Events](security-events.png)
 
 # EC2 CPU Monitoring
 
