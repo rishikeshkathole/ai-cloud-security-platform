@@ -10,28 +10,62 @@ Real-time AI-driven cloud security monitoring platform built using AWS Bedrock G
 - Event-driven automation using EventBridge
 - Interactive Streamlit dashboard
 - Cloud-native AWS security workflow
+  
+## 🛠️ Tech Stack
 
-# Security Analysis
+| Category | Technologies |
+|---|---|
+| Cloud | AWS |
+| Monitoring | CloudWatch, CloudTrail |
+| AI/GenAI | AWS Bedrock |
+| Automation | EventBridge, SNS |
+| Backend | Python |
+| Frontend | Streamlit |
+| DevOps | GitHub |
 
+## 🏗️ Architecture Diagram
+
+![Architecture](architecture.png)
+
+## 📊 Dashboard Screenshots
+
+### Security Analysis
 ![Analysis](Analysis.png)
 
 ![Analysis2](Analysis2.png)
 
-# Security Events Monitoring
-
+### Security Events Monitoring
 ![Security Events](Security-events.png)
 
-# EC2 CPU Monitoring
-
+### EC2 CPU Monitoring
 ![EC2 Monitoring](EC2-CPU-Utilization.png)
 
-# Architecture Diagram
-
-![Architecture](architecture.png)
-
-# Streamlit Dashboard
-
+### Streamlit Dashboard
 ![Dashboard](streamlit-dashboard.png)
 
+## ⚡ Installation
 
+```bash
+git clone https://github.com/rishikeshkathole/ai-cloud-security-platform.git
+
+cd ai-cloud-security-platform
+
+pip install -r requirements.txt
+
+streamlit run app.py
+```
+## 🚀 Future Enhancements
+
+- AI anomaly detection using ML models
+- Grafana integration
+- Multi-account AWS monitoring
+- Kubernetes security monitoring
+- Slack/Teams alert integration
+- Automated incident remediation
+- RAG-based security chatbot
+- GuardDuty integration
+
+  ## ☁️ Keywords
+
+AWS • Bedrock • GenAI • Cloud Security • DevOps • CloudTrail • CloudWatch • EventBridge • SNS • Streamlit • Python • AI Security • Incident Intelligence • Real-Time Monitoring • AIOps • DevSecOps
 
