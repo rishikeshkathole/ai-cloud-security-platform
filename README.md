@@ -36,8 +36,5 @@
 
 ![Dashboard](streamlit-dashboard.png)
 
-# EC2 CPU Monitoring
-
-![EC2 Monitoring](EC2-CPU-Utilization.png)
 
 
