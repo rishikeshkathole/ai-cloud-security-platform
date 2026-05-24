@@ -1,18 +1,15 @@
-# Features
-- AI-powered security analysis
-- CloudTrail monitoring
-- Real-time alerts
-- AWS Bedrock integration
-- Streamlit dashboard
+# 🚀 AI-Powered Cloud Security & Incident Intelligence Platform
 
-# Tech Stack
-- AWS EC2
-- AWS CloudTrail
-- AWS EventBridge
-- AWS SNS
-- AWS Bedrock
-- Python
-- Streamlit
+Real-time AI-driven cloud security monitoring platform built using AWS Bedrock GenAI, CloudTrail, CloudWatch, EventBridge, SNS, Python, and Streamlit.
+
+## 🔥 Features
+- Real-time CloudTrail security event monitoring
+- EC2 CPU utilization monitoring
+- AI-generated incident analysis using AWS Bedrock
+- Automated threat alerting with SNS
+- Event-driven automation using EventBridge
+- Interactive Streamlit dashboard
+- Cloud-native AWS security workflow
 
 # Security Analysis
 
