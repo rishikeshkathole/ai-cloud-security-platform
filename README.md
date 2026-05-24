@@ -38,8 +38,6 @@
 
 # EC2 CPU Monitoring
 
-![EC2 Monitoring](ec2-cpu-utilization.png)
+![EC2 Monitoring](EC2-CPU-Utilization.png)
 
 
-# Architecture
-![architecture](architecture.png)
