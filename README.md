@@ -27,6 +27,16 @@ Real-time AI-driven cloud security monitoring platform built using AWS Bedrock G
 
 ![Architecture](architecture.png)
 
+# Architecture Explanation
+
+- CloudTrail captures AWS API and login activity
+- CloudWatch tracks infrastructure metrics
+- EventBridge triggers event-driven workflows
+- Python engine processes cloud events
+- Amazon Bedrock performs AI-based incident analysis
+- SNS handles real-time notifications
+- Streamlit dashboard provides monitoring visibility
+
 ## 📊 Dashboard Screenshots
 
 ### Security Analysis
